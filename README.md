@@ -1,0 +1,2 @@
+# fbadblocker
+facebook ad blocker
